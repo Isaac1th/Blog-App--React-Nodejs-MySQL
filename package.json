@@ -1,0 +1,24 @@
+{
+  "name": "04_react_nodejs_mysql----blog-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac1th/Blog-App--React-Nodejs-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaac1th/Blog-App--React-Nodejs-MySQL/issues"
+  },
+  "homepage": "https://github.com/Isaac1th/Blog-App--React-Nodejs-MySQL#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
